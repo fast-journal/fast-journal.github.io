@@ -13,7 +13,7 @@ header {
 
 .log {
 	font-family: "Helvetica Neue";
-	font-size: 14px;
+	font-size: 18px;
 	color: #333;
 
 }
@@ -21,7 +21,7 @@ header {
 
 .dates {
 	font-family: Helvetica;
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: bold;
 	color: #003303;
 }
