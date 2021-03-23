@@ -12,11 +12,10 @@ header {
 
 p {
 	    display: block;
-	    margin-block-start: 1em;
-	    margin-block-end: 1em;
-	    margin-inline-start: 0px;
-	    margin-inline-end: 0px;
-	    line-height: 22px;
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	   
+	    line-height: 26px;
 	    
  }
 
